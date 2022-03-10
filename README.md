@@ -14,7 +14,7 @@ A JavaScript webpage that randomly assigns characters from the four-player SFSB 
 Taking into account the open spirit of the Internet, the code comments in this repository are mainly in English, but the front-end content will be in simplified Chinese.
 
 ## License
-'''
+```
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -689,4 +689,4 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
-'''
+```
