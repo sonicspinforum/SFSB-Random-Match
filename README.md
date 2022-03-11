@@ -1,11 +1,9 @@
 # SFSB-Random-Match
 A JavaScript webpage that randomly assigns characters from the four-player SFSB Party Match Mode.
 
-## Plan
-* Based on HTML, CSS & JS
-* Read Player's Data via Generated Code
-* As simple as possible
-* Open Source
+## Plan (简体中文)
+* 不存储用户信息，使用 JavaScript 生成/解析用户信息字符串
+* 纯 GitHub Pages 托管
 
 ## Language
 * Main: Simplified Chinese (zh_CN)
